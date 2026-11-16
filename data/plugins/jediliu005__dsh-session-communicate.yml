@@ -1,0 +1,6 @@
+url: https://github.com/jediliu005/dsh-session-communicate
+name: jediliu005/dsh-session-communicate
+category: tools
+description:
+  en: 'Let two existing DSH sessions talk on a daily schedule: configure both sessions, the initiator, the conversation purpose, turns and start time; every message carries the same rule header, and each run writes a plain-text transcript. Scheduling, missed-day catch-up and retry live inside the plugin, with no external cron, service or extra dependency.'
+  zh: '让两个已有 DSH 会话在每天固定时间按轮次对话：可配置双方会话、发起方、对话目的、轮次与时间；每一句都带同一份规则头，每次运行写一份纯文本记录。调度、漏天补跑与重试都在插件内部完成，不依赖外部定时任务、服务或额外依赖。'
